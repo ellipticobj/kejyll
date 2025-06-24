@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: meow-meow
+description: "i love cats and bunnies :3"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
